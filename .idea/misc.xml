@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/anils/AndroidStudioProjects/Flicks/app/src/main/res/layout-land/item_movie.xml" value="0.4842105263157895" />
-        <entry key="..\:/Users/anils/AndroidStudioProjects/Flicks/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/anils/AndroidStudioProjects/Flicks/app/src/main/res/layout/activity_detail.xml" value="0.3296875" />
+        <entry key="..\:/Users/anils/AndroidStudioProjects/Flicks/app/src/main/res/layout/activity_main.xml" value="0.5334448160535117" />
         <entry key="..\:/Users/anils/AndroidStudioProjects/Flicks/app/src/main/res/layout/item_movie.xml" value="0.5390625" />
       </map>
     </option>
